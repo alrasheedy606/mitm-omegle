@@ -7,7 +7,7 @@ helpers    = require './helpers'
 
 class Mitm
 
-  interests: ['Toronto', 'New York', 'Texas']
+  interests: ['tiktok', 'girls', 'moms']
 
   constructor: ->
     console.log 'Initializing the mitm Omegle bot :)'.rainbow.bold
